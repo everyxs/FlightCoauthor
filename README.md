@@ -31,7 +31,7 @@ Output files: airportMergeMap.csv, SelectCities[Nodes].csv (final node data tabl
 Input files: legacyEdgeTabel.csv, routes.csv, planeWake.csv, aiportMergeMap.csv
 Output files: routesWeighted.csv, collabEdges.csv
 
-# SATA code for reproducing table 1-7 and figure 3
+# STATA code for reproducing table 1-7 and figure 3
 # Author Adam Ploszaj 
 The modeling and analysis is done in SATA and code and data is shared at https://github.com/everyxs/FlightCoauthor/tree/master/data/WoS/SATA.
  
