@@ -29,3 +29,9 @@ Output files: airportMergeMap.csv, SelectCities[Nodes].csv (final node data tabl
 •	FlightEdge.java, which handles flight flow calculation and mapping with cities/metros.
 Input files: legacyEdgeTabel.csv, routes.csv, planeWake.csv, aiportMergeMap.csv
 Output files: routesWeighted.csv, collabEdges.csv
+
+# SATA code for reproducing table 1-7 and figure 3
+# Author Adam Ploszaj 
+The modeling and analysis is done in SATA and code and data is shared at https://github.com/everyxs/FlightCoauthor/data/WoS/SATA.
+ 
+Regression analyses presented in the article can be replicated using STATA .do file: “AirSciColl_replication.do”. STATA version 14 or newer is needed to run the code. The STATA code uses analytical dataset named “AirSciColl_Analitical_Dataset.csv” that combines data tables described above. For convenience, the analitical dataset is limited to main variables used in the analysis. The code presented in “AirSciColl_replication.do” also allows reproduction of tables 1-7 and figure 3 from the main body of the article. 
