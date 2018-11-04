@@ -33,8 +33,8 @@ Output files: routesWeighted.csv, collabEdges.csv
 
 # STATA code for reproducing table 1-7 and figure 3
 # Author Adam Ploszaj 
-The modeling and analysis is done in STATA and code and data is shared at https://github.com/everyxs/FlightCoauthor/tree/master/data/WoS/SATA.
+The modeling and analysis is done in STATA and code and data is shared at https://github.com/everyxs/FlightCoauthor/tree/master/STATA.
  
 Regression analyses presented in the article can be replicated using STATA .do file: “AirSciColl_replication.do”. STATA version 14 or newer is needed to run the code. The STATA code uses analytical dataset named “AirSciColl_Analitical_Dataset.csv” that combines data tables described above. For convenience, the analitical dataset is limited to main variables used in the analysis. The code presented in “AirSciColl_replication.do” also allows reproduction of tables 1-7 and figure 3 from the main body of the article. 
 
-For more details of the data, please refer to the document "AirSciColl-Supplementary_information.docx".
+For more details of the data, please refer to the document "Supplementary_information.docx".
