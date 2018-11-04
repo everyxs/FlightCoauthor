@@ -1,7 +1,7 @@
 *  Stata code to replicate analyses presented in:
 *  "The Impact of Air Transport Availability on Research Collaboration: A Case Study of Four Universities"
 *
-*  Authors: Adam Ploszaj[1], Xiaoran Yan[2], Katy Börner[2][3]
+*  Authors: Adam Ploszaj[1], Xiaoran Yan[2], Katy BÃ¶rner[2][3]
 *  [1] Centre for European Regional and Local Studies EUROREG, University of Warsaw, Warsaw, Poland
 *  [2] Indiana Network Science Institute, Indiana University, Bloomington, Indiana, USA
 *  [3] School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, USA
