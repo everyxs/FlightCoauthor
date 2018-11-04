@@ -1,7 +1,7 @@
 # JAVA code for data table replication
 # Author Xiaoran Yan
 
-The code for data manipulation and data table generation in written in JAVA. Source code and required input files are shared under https://iu.app.box.com/folder/46874448190. 
+The code for data manipulation and data table generation in written in JAVA. Source code and required input files are shared at https://github.com/everyxs/FlightCoauthor 
 The FlightCoauthor.zip contains a JAR package and a data folder set up for reproducing the data tables used in the main article. Java Runtime Environment (JRE) 7.0 or newer must be installed; all other required libraries are included in the JAR package. Once the zip content is extracted, run the JAR package by typing the following command under the extracted folder:
 > Java –jar FlightCoaurhtor.jar
 
